@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spiderekart/precache-manifest.bcf9c6492eaa8875bfe9b43ea8f6007b.js"
+  "/spiderekart/precache-manifest.1ea656ae3c184eab6a4f96b0f0a67d11.js"
 );
 
 self.addEventListener('message', (event) => {
