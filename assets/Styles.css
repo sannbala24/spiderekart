@@ -1,0 +1,77 @@
+body{
+    /* background-color: #e9ecef; */
+  }
+  #sidebar{
+    position: fixed;
+      top: 20%;
+      right: 0;
+      left: 0;
+      z-index: 1030;
+      height: 80%;
+  }
+  
+  
+   #components-layout-demo-top-side .logo {
+    width: 120px;
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px 28px 16px 0;
+    float: left;
+  }
+  
+  .site-layout-background {
+    background: #fff;
+  }
+  .ant-layout-sider {
+    position: relative;
+    margin-top: 5%;
+    min-width: 0;
+    background: #fff !important; 
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+  }
+  .ant-layout-header {
+    height: 64px;
+    padding: 0 50px;
+    color: rgba(0, 0, 0, 0.85);
+    line-height: 64px;
+    background: white !important;
+  }
+  .ant-layout-sider-zero-width-trigger{
+    background-color: cadetblue !important;
+  }
+  .navbar {
+    background-color: white;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  @media (min-width: 992px) {
+    .menu {
+      display: none;
+    }
+  }
+  /* .navbar {
+    background-color: white;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  @media (max-width: 992px) {
+    .menu {
+      display: none;
+    }
+  } */
+  
+   /* @media only screen and (max-width: 700px) {
+     
+     #sidebar{
+      position: fixed;
+      
+        top: 10%;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    } 
+   }  */
+  
