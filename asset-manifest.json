@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spiderekart/static/css/main.26e17ced.chunk.css",
-    "main.js": "/spiderekart/static/js/main.fe97c395.chunk.js",
-    "main.js.map": "/spiderekart/static/js/main.fe97c395.chunk.js.map",
+    "main.js": "/spiderekart/static/js/main.31914608.chunk.js",
+    "main.js.map": "/spiderekart/static/js/main.31914608.chunk.js.map",
     "runtime-main.js": "/spiderekart/static/js/runtime-main.be5393c0.js",
     "runtime-main.js.map": "/spiderekart/static/js/runtime-main.be5393c0.js.map",
     "static/css/2.cd846464.chunk.css": "/spiderekart/static/css/2.cd846464.chunk.css",
     "static/js/2.2472cf7a.chunk.js": "/spiderekart/static/js/2.2472cf7a.chunk.js",
     "static/js/2.2472cf7a.chunk.js.map": "/spiderekart/static/js/2.2472cf7a.chunk.js.map",
     "index.html": "/spiderekart/index.html",
-    "precache-manifest.3354f934814ab6f3084b3b7f34b3b255.js": "/spiderekart/precache-manifest.3354f934814ab6f3084b3b7f34b3b255.js",
+    "precache-manifest.d817b69e41eb9b24989509f718745963.js": "/spiderekart/precache-manifest.d817b69e41eb9b24989509f718745963.js",
     "service-worker.js": "/spiderekart/service-worker.js",
     "static/css/2.cd846464.chunk.css.map": "/spiderekart/static/css/2.cd846464.chunk.css.map",
     "static/css/main.26e17ced.chunk.css.map": "/spiderekart/static/css/main.26e17ced.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.cd846464.chunk.css",
     "static/js/2.2472cf7a.chunk.js",
     "static/css/main.26e17ced.chunk.css",
-    "static/js/main.fe97c395.chunk.js"
+    "static/js/main.31914608.chunk.js"
   ]
 }
