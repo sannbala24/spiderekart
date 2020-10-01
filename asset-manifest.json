@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/spiderekart/static/css/main.26e17ced.chunk.css",
-    "main.js": "/spiderekart/static/js/main.804c4b8b.chunk.js",
-    "main.js.map": "/spiderekart/static/js/main.804c4b8b.chunk.js.map",
-    "runtime-main.js": "/spiderekart/static/js/runtime-main.be5393c0.js",
-    "runtime-main.js.map": "/spiderekart/static/js/runtime-main.be5393c0.js.map",
-    "static/css/2.cd846464.chunk.css": "/spiderekart/static/css/2.cd846464.chunk.css",
-    "static/js/2.2472cf7a.chunk.js": "/spiderekart/static/js/2.2472cf7a.chunk.js",
-    "static/js/2.2472cf7a.chunk.js.map": "/spiderekart/static/js/2.2472cf7a.chunk.js.map",
-    "index.html": "/spiderekart/index.html",
-    "precache-manifest.bcf9c6492eaa8875bfe9b43ea8f6007b.js": "/spiderekart/precache-manifest.bcf9c6492eaa8875bfe9b43ea8f6007b.js",
-    "service-worker.js": "/spiderekart/service-worker.js",
-    "static/css/2.cd846464.chunk.css.map": "/spiderekart/static/css/2.cd846464.chunk.css.map",
-    "static/css/main.26e17ced.chunk.css.map": "/spiderekart/static/css/main.26e17ced.chunk.css.map",
-    "static/js/2.2472cf7a.chunk.js.LICENSE.txt": "/spiderekart/static/js/2.2472cf7a.chunk.js.LICENSE.txt"
+    "main.css": "/spiderekart/register/static/css/main.26e17ced.chunk.css",
+    "main.js": "/spiderekart/register/static/js/main.026cc7a7.chunk.js",
+    "main.js.map": "/spiderekart/register/static/js/main.026cc7a7.chunk.js.map",
+    "runtime-main.js": "/spiderekart/register/static/js/runtime-main.dbe77457.js",
+    "runtime-main.js.map": "/spiderekart/register/static/js/runtime-main.dbe77457.js.map",
+    "static/css/2.cd846464.chunk.css": "/spiderekart/register/static/css/2.cd846464.chunk.css",
+    "static/js/2.64338155.chunk.js": "/spiderekart/register/static/js/2.64338155.chunk.js",
+    "static/js/2.64338155.chunk.js.map": "/spiderekart/register/static/js/2.64338155.chunk.js.map",
+    "index.html": "/spiderekart/register/index.html",
+    "precache-manifest.b0a73b4a855d6029ea21b3287252aa39.js": "/spiderekart/register/precache-manifest.b0a73b4a855d6029ea21b3287252aa39.js",
+    "service-worker.js": "/spiderekart/register/service-worker.js",
+    "static/css/2.cd846464.chunk.css.map": "/spiderekart/register/static/css/2.cd846464.chunk.css.map",
+    "static/css/main.26e17ced.chunk.css.map": "/spiderekart/register/static/css/main.26e17ced.chunk.css.map",
+    "static/js/2.64338155.chunk.js.LICENSE.txt": "/spiderekart/register/static/js/2.64338155.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.be5393c0.js",
+    "static/js/runtime-main.dbe77457.js",
     "static/css/2.cd846464.chunk.css",
-    "static/js/2.2472cf7a.chunk.js",
+    "static/js/2.64338155.chunk.js",
     "static/css/main.26e17ced.chunk.css",
-    "static/js/main.804c4b8b.chunk.js"
+    "static/js/main.026cc7a7.chunk.js"
   ]
 }
